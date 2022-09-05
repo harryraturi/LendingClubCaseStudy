@@ -1,8 +1,5 @@
 # Lending Club Case Study
-> Lending club case study is an application to find largest source of financial loss for the company in terms of Charged off (Who not able to completely return the loan amount) and who those apply for the loan but for some reason not approved by the company. The main objective of this case study is to find the risky applicants who refuse to return the loan amount for any reason or silently run away . So by finding the key factor variables for that so we can reduce the credit/financial loss. So we performed an analysis to understand the driving variables so company can utilize this information and can reduce the loss by below use cases
-
-1> By our driving variable company can easily find the loan defaulter
-2> By our driving variable company can easily find the borrower list who can return the loan amount.
+- Lending club case study is an application to find largest source of financial loss for the company in terms of Charged off (Who not able to completely return the loan amount) and who those apply for the loan but for some reason not approved by the company. The main objective of this case study is to find the risky applicants who refuse to return the loan amount for any reason or silently run away . So by finding the key factor variables for that so we can reduce the credit/financial loss. So we performed an analysis to understand the driving variables so company can utilize this information and can reduce the loss by below use cases.
 
 
 ## Table of Contents
@@ -11,7 +8,6 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Project is related to Consumer Finance Company, who provides various types of loan to customers. This company is the largest online loan marketplace where it facilitates different type of loans such as Personal loan, business loan, home loan and loan for medical procedures.So this project is about to find the driver variables by using which company can decide whether they should give loan to a customer or not.
@@ -92,8 +88,6 @@ So to find the solution for the problem stated above we did some analysis on the
         7. Public Record Bankruptcies
 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
 ### Recommendation on the basis of Segmented Univariate Analysis
 - Analysis of Loan Status with Loan Amount Bucket
@@ -140,8 +134,6 @@ So to find the solution for the problem stated above we did some analysis on the
 - Analysis of Grade vs Loan Amount Bucket with respect to Loan Status
     - Customers having grade D and below towards G are more likely to be defaulter, whatever loan amount they apply and it is getting worst moving towards grade F and G. So our recommendation to bank, they should check all the necessary details required before approve the loan amount for Grade D to G and need to check proper documents to approve loan for grade F and G.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python - version 3.9.12
@@ -152,7 +144,6 @@ So to find the solution for the problem stated above we did some analysis on the
 - datatime library
 - jupyter notebook - version 6.4.8
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
@@ -161,11 +152,5 @@ Give credit here.
 
 
 ## Contact
-- Harish Rathuri : [@harryraturi] - https://github.com/harryraturi 
-- Anurag Benjwal : [@anuragbenjwal107] - https://github.com/anuragbenjwal107 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+- Harish Rathuri - [@harryraturi](https://github.com/harryraturi)
+- Anurag Benjwal - [@anuragbenjwal107](https://github.com/anuragbenjwal107)
