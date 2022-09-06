@@ -1,5 +1,5 @@
 # Lending Club Case Study
-- Lending club case study is an application to find largest source of financial loss for the company in terms of Charged off (Who not able to completely return the loan amount) and who those apply for the loan but for some reason not approved by the company. The main objective of this case study is to find the risky applicants who refuse to return the loan amount for any reason or silently run away . So by finding the key factor variables for that so we can reduce the credit/financial loss. So we performed an analysis to understand the driving variables so company can utilize this information and can reduce the loss by below use cases.
+- Lending club case study is a project which helps Lending Club Institution to determine whether they should approve or deny any coming loan request from the applicants. It also helps to reduce the financial/credit loss of Institution. **The main objective of our case study is to find defaulter or risky applicants, those can't continue to pay the complete loan amount**. We have done analysis on the given loan dataset and found some driver variables by which Lending Club Institute can predict or identify the applicants who may be defaulter's and Lending Club Institute can decide to approve loan request of these defaulter's.
 
 
 ## Table of Contents
@@ -114,7 +114,7 @@ So to find the solution for the problem stated above we did some analysis on the
 - Analysis of Loan Status with Public Record Bankruptcies
     - Customers having maximum number of public record bankruptcies are likely to be defaulter more if we compare this with customers having 0 or very less (only 1) public record bankruptcies. So for recommendation to bank, they should completely deny the customers with high number of public record bankruptcies to reduce their **financial or business loss**.
 
-### Recommendation on the basis of BiVariate Analysis
+### Recommendation on the basis of Bivariate Analysis
 - Analysis of Loan Amount Bucket vs Interest Rate Bucket with respect to Loan Status
     - Customers who's borrowing loan more than 16% interest rate whether they are applying loan for amount 5000 or 15000+, their chances to be defaulter high. So our recommendation to bank is, they can provide loan upto 15% interest rate to their customers.
 - Analysis of Interest Rate Bucket vs Term with respect to Loan Status
